@@ -40,4 +40,4 @@ Rejoindre [l'espace de discussion du GT7 sur Slack](https://join.slack.com/t/gt7
 Contacter Tu-Tho Thai, la coordinatrice du GT7 :
 
 ![photo de Tu-Tho Thai](https://github.com/etalab/netex-france-formation/raw/refs/heads/main/livebooks/1_intro/files/tutho.png)
-[Tu-Tho Thai, coordinatrice du GT7](tutho@ttandj.com)
+[Tu-Tho Thai, coordinatrice du GT7](mailto:tutho@ttandj.com)
