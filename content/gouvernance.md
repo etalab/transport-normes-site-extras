@@ -12,7 +12,7 @@ Ce groupe de travail s'insère dans les travaux de la CN03 (Commission nationale
 
 La mission principale du GT7 est de piloter et de maintenir les profils France. Il se charge également de récolter et consolider les demandes d'évolutions des acteurs français concernant Transmodel, NeTEx, SIRI et les autres normes issues de l'écosystème Transmodel.
 
-Le GT7 est ouvert à tous : [Rejoindre le GT7 et participer aux discussions]()
+Le GT7 est ouvert à tous : [Rejoindre le GT7 et participer aux discussions](/gouvernance/#contacter-le-gt7)
 
 Ce site et les obligations réglementaires associées relèvent de la responsabilité de la direction générale des transports, des infrastructures et des mobilités. Le site est maintenu par l’équipe de transport.data.gouv.fr
 
@@ -39,5 +39,4 @@ Rejoindre [l'espace de discussion du GT7 sur Slack](https://join.slack.com/t/gt7
 
 Contacter Tu-Tho Thai, la coordinatrice du GT7 :
 
-![photo de Tu-Tho Thai](https://github.com/etalab/netex-france-formation/raw/refs/heads/main/livebooks/1_intro/files/tutho.png)
-[Tu-Tho Thai, coordinatrice du GT7](mailto:tutho@ttandj.com)
+[![photo de Tu-Tho Thai](https://github.com/etalab/netex-france-formation/raw/refs/heads/main/livebooks/1_intro/files/tutho.png)](mailto:tutho@ttandj.com)

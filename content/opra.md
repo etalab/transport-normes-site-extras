@@ -8,7 +8,7 @@ summary: "comprendre OpRa"
 
 En complément des documents de spécification technique, OpRa fournit également un schéma W3C XML (XSD) qui peut être utilisé directement par les logiciels produisant, validant et utilisant les données. Ce schéma est disponible sur [l'espace de travail Github](https://github.com/TransmodelEcosystem/OpRa) du projet, géré par le CEN.
 
-OpRa, comme SIRI et NeTEx, est un format dérivé de **[Transmodel]()** : il s'agit d'un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
+OpRa, comme SIRI et NeTEx, est un format dérivé de **[Transmodel](/a-placer/transmodel/)** : il s'agit d'un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
 
 ## Profil français
 
@@ -29,13 +29,13 @@ OpRa permet de représenter les données soit sous la forme de mesures individue
 <details>
 <summary>Suis-je obligé(e) d'utiliser OpRa ?</summary>
 
-En savoir plus sur [le cadre réglementaire]() entourant la publication des jeux de données de mobilité.
+En savoir plus sur [le cadre réglementaire](/cadre-reglementaire/) entourant la publication des jeux de données de mobilité.
 
 </details>
 <details>
 <summary>Je n'y comprends rien, qui peut m'aider ?</summary>
 
-Si vous avez des questions ou souhaitez être accompagnés, vous pouvez vous rapprocher du [GT7]().
+Si vous avez des questions ou souhaitez être accompagnés, vous pouvez vous rapprocher du [GT7](/gouvernance/).
 
 </details>
 <details>
@@ -43,6 +43,6 @@ Si vous avez des questions ou souhaitez être accompagnés, vous pouvez vous rap
 
 OpRa est un format d'échange récent et vivant, qui évolue avec les besoins métiers des acteurs qui l'utilisent.
 
-En savoir plus sur [la communauté et la gouvernance]() de l'écosystème Transmodel.
+En savoir plus sur [la communauté et la gouvernance](/gouvernance/) de l'écosystème Transmodel.
 
 </details>

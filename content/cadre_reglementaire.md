@@ -9,9 +9,9 @@ Les données d'accessibilité sont également concernées.
 
 Ces données doivent être publiées sur le Point d'accès national transport.data.gouv.fr et suivre les profils européens ou nationaux des normes :
 
-- NeTEx pour les données statiques
-- SIRI pour les données dynamiques
-- OpRa pour les données observées
+- [NeTEx](/a-placer/netex/) pour les données statiques
+- [SIRI](/a-placer/siri/) pour les données dynamiques
+- [OpRa](/a-placer/opra/) pour les données observées
 
 Ce site référence les spécifications des versions officielles et en vigueur des profils français des normes européennes, conformément à l'[arrêté du 4 mars 2022](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045382208) relatif aux spécifications techniques pour la mise à disposition des données concernant les déplacements et la circulation.
 

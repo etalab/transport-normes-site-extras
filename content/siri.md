@@ -18,20 +18,20 @@ La spécification de SIRI se décompose en sept parties :
 
 En complément des documents de spécification technique, SIRI fournit également un schéma W3C XML (XSD) qui peut être utilisé directement par les logiciels produisant, validant et utilisant les données. Ce schéma est disponible sur [l'espace de travail Github](https://github.com/TransmodelEcosystem/SIRI) du projet, géré par le CEN.
 
-SIRI, comme NeTEx et OpRa, est un format dérivé de **[Transmodel]()** : il s'agit d'un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
+SIRI, comme NeTEx et OpRa, est un format dérivé de **[Transmodel](/a-placer/transmodel/)** : il s'agit d'un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
 
 ## Profil français
 
-En France, le profil français de SIRI présenté sur ce site indique comment utiliser le format SIRI pour publier les données de transport conformes à la [réglementation en vigueur](). Il propose notamment une implémentation des besoins métiers nationaux.
+En France, le profil français de SIRI présenté sur ce site indique comment utiliser le format SIRI pour publier les données de transport conformes à la [réglementation en vigueur](/cadre-reglementaire/). Il propose notamment une implémentation des besoins métiers nationaux.
 
 La version actuellement en vigueur du profil est la version 1.8, publiée le 16 mars 2026.
 
-[Consulter le profil français de SIRI]()
+[Consulter le profil français de SIRI](/a-placer/siri-fr-1.8/)
 
 Vous pouvez également consulter :
 
-- la [version 1.7 du profil](), publiée en avril 2024
-- le brouillon de la [future version du profil]()
+- la [version 1.7 du profil](/a-placer/siri-fr-1.7/), publiée en avril 2024
+- le brouillon de la [future version du profil](/a-placer/siri-fr-next/)
 
 ## Questions fréquentes
 
@@ -64,13 +64,13 @@ TODO
 <details>
 <summary>Suis-je obligé(e) d'utiliser SIRI ?</summary>
 
-En savoir plus sur [le cadre réglementaire]() entourant la publication des jeux de données de mobilité.
+En savoir plus sur [le cadre réglementaire](/cadre-reglementaire/) entourant la publication des jeux de données de mobilité.
 
 </details>
 <details>
 <summary>Je n'y comprends rien, qui peut m'aider ?</summary>
 
-Si vous avez des questions ou souhaitez être accompagnés, vous pouvez vous rapprocher du [GT7]() ou poser des questions sur l'[espace de travail du GT7 sur Github](https://github.com/etalab/transport-profil-siri-fr).
+Si vous avez des questions ou souhaitez être accompagnés, vous pouvez vous rapprocher du [GT7](/gouvernance/) ou poser des questions sur l'[espace de travail du GT7 sur Github](https://github.com/etalab/transport-profil-siri-fr).
 
 </details>
 <details>
@@ -78,6 +78,6 @@ Si vous avez des questions ou souhaitez être accompagnés, vous pouvez vous rap
 
 SIRI est un format d'échange vivant, qui évolue avec les besoins métiers des acteurs qui l'utilisent.
 
-En savoir plus sur [la communauté et la gouvernance]() de SIRI.
+En savoir plus sur [la communauté et la gouvernance](/gouvernance/) de SIRI.
 
 </details>

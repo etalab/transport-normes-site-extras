@@ -17,20 +17,20 @@ La spécification de NeTEx se décompose en six parties :
 
 En complément des documents de spécification technique, NeTEx fournit également un schéma W3C XML (XSD) qui peut être utilisé directement par les logiciels produisant, validant et utilisant les données. Ce schéma est disponible sur [l'espace de travail Github](https://github.com/TransmodelEcosystem/NeTEx) du projet, géré par le CEN.
 
-NeTEx, comme SIRI et OpRa, est un format dérivé de **[Transmodel]()** : il s'agit d'un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
+NeTEx, comme SIRI et OpRa, est un format dérivé de **[Transmodel](/a-placer/transmodel/)** : il s'agit d'un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
 
 ## Profil français
 
-En France, le profil français de NeTEx présenté sur ce site indique comment utiliser le format NeTEx pour publier les données de transport conformes à la [réglementation en vigueur](). Il propose notamment des traductions en français des concepts de la norme européenne, ainsi qu'une implémentation des besoins métiers nationaux.
+En France, le profil français de NeTEx présenté sur ce site indique comment utiliser le format NeTEx pour publier les données de transport conformes à la [réglementation en vigueur](/cadre-reglementaire/). Il propose notamment des traductions en français des concepts de la norme européenne, ainsi qu'une implémentation des besoins métiers nationaux.
 
 La version actuellement en vigueur du profil est la 2.4, publiée le 6 mars 2026.
 
-[Consulter le profil français de NeTEx]()
+[Consulter le profil français de NeTEx](/a-placer/netex-fr-2.4/)
 
 Vous pouvez également consulter :
 
-- la [version 2.3 du profil](), publiée en décembre 2024
-- le brouillon de la [future version du profil]()
+- la [version 2.3 du profil](/a-placer/netex-fr-2.3/), publiée en décembre 2024
+- le brouillon de la [future version du profil](/a-placer/netex-fr-next/)
 
 ## Ressources additionnelles
 
@@ -93,13 +93,13 @@ Il est également recommandé de valider les fichiers en utilisant la XSD de NeT
 <details>
 <summary>Suis-je obligé(e) d'utiliser NeTEx ?</summary>
 
-En savoir plus sur [le cadre réglementaire]() entourant la publication des jeux de données de mobilité.
+En savoir plus sur [le cadre réglementaire](/cadre-reglementaire/) entourant la publication des jeux de données de mobilité.
 
 </details>
 <details>
 <summary>Je n'y comprends rien, qui peut m'aider ?</summary>
 
-La section "Ressources additionnelles" de cette page indique quelques documents didactiques qui vous permettront de comprendre les bases pour prendre en main le format. Puis, si vous avez des questions ou souhaitez être accompagnés, vous pouvez vous rapprocher du [GT7]().
+La section "Ressources additionnelles" de cette page indique quelques documents didactiques qui vous permettront de comprendre les bases pour prendre en main le format. Puis, si vous avez des questions ou souhaitez être accompagnés, vous pouvez vous rapprocher du [GT7](/gouvernance/).
 
 </details>
 <details>
@@ -107,6 +107,6 @@ La section "Ressources additionnelles" de cette page indique quelques documents 
 
 NeTEx est un format d'échange vivant, qui évolue avec les besoins métiers des acteurs qui l'utilisent.
 
-En savoir plus sur [la communauté et la gouvernance]() de NeTEx.
+En savoir plus sur [la communauté et la gouvernance](/gouvernance/) de NeTEx.
 
 </details>

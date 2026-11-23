@@ -12,9 +12,9 @@ Transmodel est conçu pour la multimodalité : il couvre à la fois les modes d�
 
 Plusieurs formats d'échange sont construits en utilisant le vocabulaire de Transmodel :
 
-- [NeTEx]() pour les données planifiées
-- [SIRI]() pour les données temps réel
-- [OpRa]() pour les données opérationneles réalisées
+- [NeTEx](/a-placer/netex/) pour les données planifiées
+- [SIRI](/a-placer/siri/) pour les données temps réel
+- [OpRa](/a-placer/opra/) pour les données opérationnelles réalisées
 - [et d'autres](https://transmodel-cen.eu/)
 
 Transmodel est un projet du CEN (comité européen de normalisation).
