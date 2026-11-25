@@ -58,7 +58,11 @@ SIRI peut être notamment utilisé pour :
 
 GTFS-RT est également un standard pour publier des informations de transport en temps réel.
 
-TODO
+GTFS-RT est une extension de GTFS et privilégie un modèle simple, utilisé pour la diffusion d’informations aux voyageurs.
+
+SIRI est une norme européenne fondée sur [Transmodel](/a-placer/transmodel/), qui s’inscrit dans le cadre des standards européens de référence pour la mise à disposition des données de mobilité, notamment au titre du [règlement européen MMTIS et de sa mise en œuvre en France par la LOM](/cadre-reglementaire/).
+
+SIRI propose un modèle plus détaillé et un ensemble plus large de services, notamment pour les horaires en temps réel, le suivi des véhicules, les perturbations, les équipements et les correspondances.
 
 </details>
 <details>
