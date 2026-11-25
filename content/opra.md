@@ -8,7 +8,7 @@ summary: "comprendre OpRa"
 
 En complément des documents de spécification technique, OpRa fournit également un schéma W3C XML (XSD) qui peut être utilisé directement par les logiciels produisant, validant et utilisant les données. Ce schéma est disponible sur [l'espace de travail Github](https://github.com/TransmodelEcosystem/OpRa) du projet, géré par le CEN.
 
-OpRa, comme SIRI et NeTEx, est un format dérivé de **[Transmodel](/a-placer/transmodel/)** : il s'agit d'un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
+OpRa, comme [SIRI](/a-placer/siri/) et [NeTEx](/a-placer/netex/), est un format qui repose sur **[Transmodel](/a-placer/transmodel/)**, un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
 
 ## Profil français
 

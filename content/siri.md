@@ -18,7 +18,7 @@ La spécification de SIRI se décompose en sept parties :
 
 En complément des documents de spécification technique, SIRI fournit également un schéma W3C XML (XSD) qui peut être utilisé directement par les logiciels produisant, validant et utilisant les données. Ce schéma est disponible sur [l'espace de travail Github](https://github.com/TransmodelEcosystem/SIRI) du projet, géré par le CEN.
 
-SIRI, comme NeTEx et OpRa, est un format dérivé de **[Transmodel](/a-placer/transmodel/)** : il s'agit d'un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
+SIRI, comme [NeTEx](/a-placer/netex/) et [OpRa](/a-placer/opra/), est un format qui repose sur **[Transmodel](/a-placer/transmodel/)**, un modèle conceptuel de données qui a pour objectif de définir un vocabulaire commun pour l'échange de données structurées de transport public.
 
 ## Profil français
 
