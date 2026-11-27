@@ -19,10 +19,10 @@ Remarque : Ce document étant un profil d’échange de NeTEx, il ne se substitu
 
 ## Sections du profil
 
-- [Éléments communs](/profils/netex-fr/v2.3/netex/elements_communs/) : types, structures et élements partagés entre toutes les parties du profil
-- [Arrêts](/profils/netex-fr/v2.3/NeTEx/arrets/) : description des arrêts de transport et de la multimodalité : positions, équipements, correspondances
-- [Réseaux](/profils/netex-fr/v2.3/NeTEx/reseaux/) : description des données de topologie des réseaux : lignes, sens, itinéraires et groupes de lignes
-- [Horaires](/profils/netex-fr/v2.3/NeTEx/horaires/) : données horaires et de desserte
-- [Accessibilité](/profils/netex-fr/v2.3/NeTEx/accessibilite/) : données d'accessibilité : équipements, niveaux de services et cheminements piétons
-- [Tarifs](/profils/netex-fr/v2.3/NeTEx/tarifs/) : données tarifaires : zones, prix, offres, conditions de vente
-- [Parkings](/profils/netex-fr/v2.3/NeTEx/parkings/) : données de stationnement
+- [Éléments communs](/profils/netex-fr/v2.3/elements_communs/) : types, structures et élements partagés entre toutes les parties du profil
+- [Arrêts](/profils/netex-fr/v2.3/arrets/) : description des arrêts de transport et de la multimodalité : positions, équipements, correspondances
+- [Réseaux](/profils/netex-fr/v2.3/reseaux/) : description des données de topologie des réseaux : lignes, sens, itinéraires et groupes de lignes
+- [Horaires](/profils/netex-fr/v2.3/horaires/) : données horaires et de desserte
+- [Accessibilité](/profils/netex-fr/v2.3/accessibilite/) : données d'accessibilité : équipements, niveaux de services et cheminements piétons
+- [Tarifs](/profils/netex-fr/v2.3/tarifs/) : données tarifaires : zones, prix, offres, conditions de vente
+- [Parkings](/profils/netex-fr/v2.3/parkings/) : données de stationnement

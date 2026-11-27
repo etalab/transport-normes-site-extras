@@ -20,15 +20,15 @@ Remarque : Ce document étant un profil d’échange de NeTEx, il ne se substitu
 
 ## Sections du profil
 
-- [Éléments communs](/profils/netex-fr/v2.4.0/netex/elements_communs/) : types, structures et élements partagés entre toutes les parties du profil
-- [Arrêts](/profils/netex-fr/v2.4.0/netex/arrets/) : description des arrêts de transport et de la multimodalité : positions, équipements, correspondances
-- [Réseaux](/profils/netex-fr/v2.4.0/netex/reseaux/) : description des données de topologie des réseaux : lignes, sens, itinéraires et groupes de lignes
-- [Horaires](/profils/netex-fr/v2.4.0/netex/horaires/) : données horaires et de desserte
-- [Accessibilité](/profils/netex-fr/v2.4.0/netex/accessibilite/) : données d'accessibilité : équipements, niveaux de services et cheminements piétons
-- [Tarifs](/profils/netex-fr/v2.4.0/netex/tarifs/) : données tarifaires : zones, prix, offres, conditions de vente
-- [Parkings](/profils/netex-fr/v2.4.0/netex/parkings/) : données de stationnement
+- [Éléments communs](/profils/netex-fr/v2.4.0/elements_communs/) : types, structures et élements partagés entre toutes les parties du profil
+- [Arrêts](/profils/netex-fr/v2.4.0/arrets/) : description des arrêts de transport et de la multimodalité : positions, équipements, correspondances
+- [Réseaux](/profils/netex-fr/v2.4.0/reseaux/) : description des données de topologie des réseaux : lignes, sens, itinéraires et groupes de lignes
+- [Horaires](/profils/netex-fr/v2.4.0/horaires/) : données horaires et de desserte
+- [Accessibilité](/profils/netex-fr/v2.4.0/accessibilite/) : données d'accessibilité : équipements, niveaux de services et cheminements piétons
+- [Tarifs](/profils/netex-fr/v2.4.0/tarifs/) : données tarifaires : zones, prix, offres, conditions de vente
+- [Parkings](/profils/netex-fr/v2.4.0/parkings/) : données de stationnement
 
 ## Ressources additionnelles
 
 - [Exemples](https://github.com/etalab/transport-profil-netex-fr/tree/v2.4.0/exemples) : quelques exemples de petits fichiers NeTEx à vocation pédagogique
-- [FÀQ tarifaire](/profils/netex-fr/v2.4.0/netex/tarifs/faq/) : foire aux questions sur la partie tarifaire du profil
+- [FÀQ tarifaire](/profils/netex-fr/v2.4.0/tarifs/faq/) : foire aux questions sur la partie tarifaire du profil

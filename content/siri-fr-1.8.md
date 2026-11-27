@@ -20,4 +20,4 @@ Remarque : Ce document étant un profil d’échange de SIRI, il ne se substitue
 
 ## Sections du profil
 
-- [Contenu du profil v1.8](/profils/siri-fr/v1.8.0/siri/profil-france/)
+- [Contenu du profil v1.8](/profils/siri-fr/v1.8.0/profil-france/)

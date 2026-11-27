@@ -16,4 +16,4 @@ Remarque : Ce document étant un profil d’échange de SIRI, il ne se substitue
 
 ## Sections du profil
 
-- [Contenu de la future version du profil](/profils/siri-fr/v2.0-wip/siri/profil-france/)
+- [Contenu de la future version du profil](/profils/siri-fr/v2.0-wip/profil-france/)
