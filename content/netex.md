@@ -23,9 +23,9 @@ NeTEx, comme [SIRI](/a-placer/siri/) et [OpRa](/a-placer/opra/), est un format q
 
 En France, le profil français de NeTEx présenté sur ce site indique comment utiliser le format NeTEx pour publier les données de transport conformes à la [réglementation en vigueur](/cadre-reglementaire/). Il propose notamment des traductions en français des concepts de la norme européenne, ainsi qu'une implémentation des besoins métiers nationaux.
 
-La version actuellement en vigueur du profil est la 2.4, publiée le 6 mars 2026.
-
-[Consulter le profil français de NeTEx](/a-placer/netex-fr-2.4/)
+> La version actuellement en vigueur du profil est la 2.4, publiée le 6 mars 2026.
+> 
+> [Consulter le profil français de NeTEx](/a-placer/netex-fr-2.4/)
 
 Vous pouvez également consulter :
 

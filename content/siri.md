@@ -24,9 +24,9 @@ SIRI, comme [NeTEx](/a-placer/netex/) et [OpRa](/a-placer/opra/), est un format 
 
 En France, le profil français de SIRI présenté sur ce site indique comment utiliser le format SIRI pour publier les données de transport conformes à la [réglementation en vigueur](/cadre-reglementaire/). Il propose notamment une implémentation des besoins métiers nationaux.
 
-La version actuellement en vigueur du profil est la version 1.8, publiée le 16 mars 2026.
-
-[Consulter le profil français de SIRI](/a-placer/siri-fr-1.8/)
+> La version actuellement en vigueur du profil est la version 1.8, publiée le 16 mars 2026.
+> 
+> [Consulter le profil français de SIRI](/a-placer/siri-fr-1.8/)
 
 Vous pouvez également consulter :
 
